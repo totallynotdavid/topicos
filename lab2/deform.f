@@ -24,9 +24,9 @@ c... IDS,IDE = limites en el eje X de la grilla de deformacion
 c... JDS,JDE = limites de el eje Y de la grilla de deformacion
 c    NP = numero de subfuentes
 c...
-      PARAMETER (IDS= 171,IDE= 413,JDS= 1,JDE= 1)
+      PARAMETER (IDS= 153,IDE= 637,JDS= 844,JDE= 1396)
       PARAMETER (IA=IDE-IDS+1, JA=JDE-JDS+1)
-      PARAMETER (DX=30.0)
+      PARAMETER (DX=926.6244)
       PARAMETER (NP=1) 
 
 c...  ZA(IA,JA) = condicion inicial en la superficie del mar

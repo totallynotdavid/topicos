@@ -6,8 +6,8 @@
 % Update: 22 Ago 2016
   
   clear all; close all; clc
-  xep = -74.654; yep=-16.00; zep =18; % coordenadas epicentro
-  xo = -74.50; yo = -16.50; % extremo inferior (o ext sup para Japon)
+  xep = -76.900; yep=-13.50; zep =18; % coordenadas epicentro
+  xo = 283.00; yo = -14.00; % extremo inferior (o ext sup para Japon)
   L = 160000; % Largo o longitud del pano de falla; (en metros)
   W = 70000; % Ancho del plano de falla; (metros)
   H = 5000;  % Profundidad de la parte superior de la falla

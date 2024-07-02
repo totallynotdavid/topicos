@@ -33,9 +33,9 @@ C  -------------------------------------------------
       INTEGER SGL
       REAL L0,str_rad
 C  -------- You need to change parameters below -------
-      PARAMETER (IDS= 171,IDE= 413,JDS= 1,JDE= 1)
+      PARAMETER (IDS= 153,IDE= 637,JDS= 844,JDE= 1396)
       PARAMETER (IA=IDE-IDS+1, JA=JDE-JDS+1)
-      PARAMETER (DX=30.0,DY=DX)
+      PARAMETER (DX=926.6244,DY=DX)
       PARAMETER (NP=1) 
 C  -------- Correction Parameters for the Fault Position ---
 C  -------- You don't have to change parameters below -------
